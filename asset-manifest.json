@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/room-homepage/static/css/main.cfe72678.css",
+    "main.js": "/room-homepage/static/js/main.30608cba.js",
+    "static/js/787.accb9253.chunk.js": "/room-homepage/static/js/787.accb9253.chunk.js",
+    "static/media/image-about-dark.jpg": "/room-homepage/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
+    "static/media/logo.svg": "/room-homepage/static/media/logo.8fad054264a8e979d2bbe8ac73867178.svg",
+    "index.html": "/room-homepage/index.html",
+    "static/media/icon-arrow.svg": "/room-homepage/static/media/icon-arrow.84087786c5e572d7f27f2672642badd5.svg",
+    "main.cfe72678.css.map": "/room-homepage/static/css/main.cfe72678.css.map",
+    "main.30608cba.js.map": "/room-homepage/static/js/main.30608cba.js.map",
+    "787.accb9253.chunk.js.map": "/room-homepage/static/js/787.accb9253.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe72678.css",
+    "static/js/main.30608cba.js"
+  ]
+}
