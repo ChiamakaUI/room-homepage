@@ -31,19 +31,23 @@ body {
     cursor: pointer;
     color:  hsl(0, 0%, 100%);
     font-size: 18px;
+    cursor: pointer;
+}
+
+.navbar ul li:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 4px;  
+
 }
 
 .slider{
     display: flex;
-    /* margin-top: -48px; */
     height: 500px;
 
 }
 
 .slider-text{
     background-color:  hsl(0, 0%, 100%);
-    /* padding: 30px; */
-    /* padding: 10px; */
 }
 .slider-text h3{
     font-size: 52px;
@@ -67,6 +71,11 @@ body {
     height: 65px;
     cursor: pointer;
 }
+.slider-text button:hover{
+    background-color: hsl(0, 0%, 27%);
+    border: 2px solid hsl(0, 0%, 27%);
+}
+
 
 .about-us{
     display: flex;
