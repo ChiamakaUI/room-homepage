@@ -67,12 +67,12 @@ const Slider = () => {
           style={{
             display: "flex",
             alignItems: "center",
-            width: "20%",
+            width: "35%",
             margin: "1% auto 12.4%",
             justifyContent: "space-between",
           }}
         >
-          <p>Shop now</p>
+          <p style={{textTransform: "uppercase", letterSpacing: "8px"}}>Shop now</p>
           <img src={arrow} alt="Shop" />
         </div>
         <button onClick={prevSlide}>
